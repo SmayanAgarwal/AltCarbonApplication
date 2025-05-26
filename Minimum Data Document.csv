@@ -1,0 +1,94 @@
+Name,Vibe,Location,Distance to Nearest Metro Station,Eateries Within 1KM,Metro Stations Within 1KM,Forest Cover,School Quality
+Red Fort,Cultural,Central Delhi,788.414,9,1,20.2,277.24
+India Gate,Cultural,New Delhi,1133.609327,10,0,46.6,272.13
+Qutub Minar,Cultural,South Delhi,1266.680077,5,0,31.33,272.74
+Humayun’s Tomb,Cultural,South East Delhi,818.4701747,4,1,8.5,278.88
+Jama Masjid,Cultural,Central Delhi,466.9572576,23,3,20.2,277.24
+Purana Qila,Cultural,New Delhi,1377.026368,4,0,46.6,272.13
+Rashtrapati Bhavan,Cultural,New Delhi,1205.728772,0,0,46.6,272.13
+Raj Ghat,Cultural,Central Delhi,1041.596761,2,0,20.2,277.24
+Safdarjung Tomb,Cultural,New Delhi,266.1282832,1,2,46.6,272.13
+Agrasen ki Baoli,Cultural,New Delhi,443.7427346,95,5,46.6,272.13
+Chandni Chowk,Commercial,Central Delhi,288.279486,25,3,20.2,277.24
+Sarojini Nagar Market,Commercial,New Delhi,317.7587713,3,1,46.6,272.13
+Lajpat Nagar Central Market,Commercial,South East Delhi,465.447898,28,4,8.5,278.88
+Dilli Haat INA,Trendy,South East Delhi,93.27339748,2,3,8.5,278.88
+Janpath Market,Commercial,New Delhi,417.3296725,128,5,46.6,272.13
+Kamla Nagar Market,Commercial,Central Delhi,1321.122789,15,0,20.2,277.24
+Karol Bagh Market,Commercial,Central Delhi,1373.952456,3,0,20.2,277.24
+Gaffar Market,Commercial,Central Delhi,696.1308554,17,1,20.2,277.24
+Khan Market,Trendy,New Delhi,424.88775,32,1,46.6,272.13
+Meena Bazaar,Cultural,Central Delhi,222.4643862,22,3,20.2,277.24
+Hauz Khas Village,Trendy,South Delhi,1068.41005,47,0,31.33,272.74
+Majnu ka Tila,Trendy,Central Delhi,1264.146777,8,0,20.2,277.24
+Satya Niketan,Trendy,New Delhi,171.5026122,55,2,46.6,272.13
+Hudson Lane (GTB Nagar),Trendy,North Delhi,394.6196575,19,2,8.15,279.29
+Champa Gali,Trendy,South Delhi,384.9165614,32,1,31.33,272.74
+SDA Market,Trendy,South Delhi,704.0609788,39,1,31.33,272.74
+Select Citywalk,Chill,South Delhi,792.0129647,30,1,31.33,272.74
+Pacific Mall,Chill,West Delhi,198.629844,1,3,4.91,283.27
+"DLF Avenue, Saket",Chill,South Delhi,620.5590157,30,1,31.33,272.74
+Lodhi Garden,Chill,New Delhi,975.5997427,27,1,46.6,272.13
+Nehru Park,Chill,New Delhi,1711.892364,3,0,46.6,272.13
+Garden of Five Senses,Chill,South Delhi,812.9385161,31,1,31.33,272.74
+Deer Park,Chill,South Delhi,1130.323166,38,0,31.33,272.74
+Sanjay Van,Chill,South Delhi,1638.429762,4,0,31.33,272.74
+Ridge Forest,Chill,New Delhi,2929.464206,1,0,46.6,272.13
+Aravalli Biodiversity Park,Chill,New Delhi,1026.130027,0,0,46.6,272.13
+Sunder Nursery,Chill,South East Delhi,1348.865151,6,0,8.5,278.88
+Buddha Garden,Chill,Central Delhi,618.4630118,13,3,20.2,277.24
+Greater Kailash I,Residential,South East Delhi,738.2081742,50,2,8.5,278.88
+Greater Kailash II,Residential,South East Delhi,975.4782067,35,1,8.5,278.88
+South Extension,Residential,South East Delhi,1199.910397,5,0,8.5,278.88
+Vasant Kunj,Residential,New Delhi,3216.889997,2,0,46.6,272.13
+Vasant Vihar,Residential,New Delhi,318.9628047,14,1,46.6,272.13
+Defence Colony,Residential,South East Delhi,347.1811642,24,3,8.5,278.88
+Rohini Sector 18,Residential,North Delhi,4.043989555,2,2,8.15,279.29
+Dwarka Sector 10,Residential,South West Delhi,78.56525865,2,3,9.93,287.33
+Mayur Vihar Phase 1,Residential,East Delhi,265.1362014,8,3,4.67,278.54
+Patel Nagar,Residential,West Delhi,3.713879209,3,2,4.91,283.27
+Delhi University (North Campus),Chill,Central Delhi,960.6459428,20,1,20.2,277.24
+JNU Campus,Chill,New Delhi,1876.2487,6,0,46.6,272.13
+Jamia Millia Islamia,Chill,South East Delhi,0.006784306133,4,2,8.5,278.88
+IIT Delhi,Chill,South Delhi,74.11495336,13,2,31.33,272.74
+AIIMS,Residential,South East Delhi,228.4772405,6,4,8.5,278.88
+IGNOU,Commercial,South Delhi,1267.96643,16,0,31.33,272.74
+IIFT,Commercial,South Delhi,895.3055911,51,2,31.33,272.74
+Miranda House,Chill,Central Delhi,539.1516394,19,2,20.2,277.24
+SRCC,Residential,North Delhi,843.6151044,23,1,8.15,279.29
+St. Stephen’s College,Chill,Central Delhi,1015.381752,17,1,20.2,277.24
+Lotus Temple,Cultural,South East Delhi,365.2832923,33,4,8.5,278.88
+Akshardham Temple,Cultural,Central Delhi,628.8451085,4,1,20.2,277.24
+ISKCON Temple,Cultural,South East Delhi,552.3814174,64,2,8.5,278.88
+Gurudwara Bangla Sahib,Cultural,New Delhi,484.0942728,13,2,46.6,272.13
+Nizamuddin Dargah,Cultural,South East Delhi,890.004902,4,2,8.5,278.88
+Chhatarpur Mandir,Cultural,South Delhi,537.5536691,8,1,31.33,272.74
+"Hanuman Mandir, Connaught Place",Cultural,New Delhi,258.9030729,129,4,46.6,272.13
+Kalkaji Mandir,Cultural,South East Delhi,97.68004431,45,6,8.5,278.88
+Birla Mandir,Cultural,New Delhi,1105.163169,11,1,46.6,272.13
+New Delhi Railway Station,Commercial,Central Delhi,325.0236027,141,4,20.2,277.24
+Hazrat Nizamuddin Station,Commercial,South East Delhi,365.5765771,4,1,8.5,278.88
+Anand Vihar ISBT,Commercial,Shahdara,256.2633962,1,3,4.3,
+Delhi Metro Rajiv Chowk,Trendy,New Delhi,286.9526073,0,1,46.6,272.13
+Kashmere Gate ISBT,Commercial,Central Delhi,257.0364075,2,4,20.2,277.24
+IGI Airport Terminal 3,Commercial,New Delhi,1093.183309,0,0,46.6,272.13
+Dhaula Kuan Flyover,Commercial,New Delhi,606.8898458,55,2,46.6,272.13
+Noida Link Road,Commercial,East Delhi,380.5928168,0,2,4.67,278.54
+Outer Ring Road,Commercial,North West Delhi,145.5943113,5,2,3.75,282.82
+Indian Habitat Centre,Cultural,South East Delhi,795.5890763,19,1,8.5,278.88
+Pragati Maidan,Commercial,New Delhi,691.5933844,1,2,46.6,272.13
+Delhi Haat Pitampura,Trendy,New Delhi,219.393166,1,3,46.6,272.13
+Siri Fort Auditorium,Cultural,South Delhi,978.9174909,16,2,31.33,272.74
+National Gallery of Modern Art,Cultural,New Delhi,953.835883,16,1,46.6,272.13
+Shankar’s Doll Museum,Cultural,Central Delhi,11.20125492,5,5,20.2,277.24
+Rail Museum,Cultural,New Delhi,946.7666049,2,1,46.6,272.13
+Connaught Place Inner Circle,Commercial,New Delhi,89.80893491,131,4,46.6,272.13
+Outer Circle,Commercial,Central Delhi,373.9792847,128,5,20.2,277.24
+INA Market,Commercial,South East Delhi,0.005876755124,2,3,8.5,278.88
+Bharat Darshan Park,Chill,West Delhi,823.1822084,1,2,4.91,283.27
+Tughlakabad Fort,Cultural,South East Delhi,3410.342881,1,0,8.5,278.88
+Yamuna Ghat,Chill,Central Delhi,2248.530226,6,0,20.2,277.24
+Okhla Bird Sanctuary,Chill,Central Delhi,1337.151166,0,0,20.2,277.24
+Sanjay Camp,Residential,New Delhi,250.4425507,5,1,46.6,272.13
+Shadipur Depot,Uncategorized,West Delhi,287.4257354,2,4,4.91,283.27
+Shahpur Jat,Trendy,South Delhi,551.688109,14,3,31.33,272.74
